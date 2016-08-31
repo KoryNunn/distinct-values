@@ -1,0 +1,25 @@
+{
+  "name": "distinct-values",
+  "version": "1.0.0",
+  "description": "return a distinct set of values based on a hashing function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/distinct-values.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/distinct-values/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/distinct-values#readme"
+}
